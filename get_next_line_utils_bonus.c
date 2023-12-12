@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jotavare <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: dmuhirwa <dmuhirwa@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/12/18 00:43:10 by jotavare          #+#    #+#             */
-/*   Updated: 2022/12/18 00:43:11 by jotavare         ###   ########.fr       */
+/*   Created: 2023/12/12 15:16:46 by dmuhirwa          #+#    #+#             */
+/*   Updated: 2023/12/12 15:16:53 by dmuhirwa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
